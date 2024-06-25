@@ -33,7 +33,7 @@ const Footer = () => {
           </div>
         </div>
         <div className="footer__social">
-          <p>follow us!</p>
+          <p>Подписывайтесь на нас!!</p>
           <a href="#"><img src="img/icons/Facebook.png" alt="Facebook" /></a>
           <a href="#"><img src="img/icons/Instagram.png" alt="Instagram" /></a>
           <a href="#"><img src="img/icons/Youtube.png" alt="Youtube" /></a>

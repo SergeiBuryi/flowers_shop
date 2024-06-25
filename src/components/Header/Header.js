@@ -172,7 +172,7 @@ const Header = () => {
           </div>
           <div className="header__menu">
             <ul className="header__list">
-              <li><a href="#">Домой</a></li>
+              <li><a href="#">Главная страница</a></li>
               <li><a href="#">О нас</a></li>
               <li><a href="#">Букеты</a></li>
               <li><a href="#">Сервисы</a></li>
