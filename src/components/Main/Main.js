@@ -49,7 +49,7 @@ const Main = () => {
                   Эти жизнерадостные цветы с их яркими, солнечными лепестками привносят в букет радость и позитивный настрой.
                 </p>
               </div>
-              <button className="cards__button btn">Read more</button>
+              <button className="cards__button btn">Читать далее</button>
             </div>
           ))}
         </div>
@@ -66,7 +66,7 @@ const Main = () => {
             Наш цветочный магазин был основан в 2024 году с целью предоставления высококачественных цветов и букетов жителям нашего города. 
             За годы работы мы стали одним из ведущих поставщиков цветов в регионе, благодаря нашей приверженности качеству, креативности и превосходному обслуживанию клиентов.
             </p>
-            <button className="blocktext__btn btn">Read more</button>
+            <button className="blocktext__btn btn">Читать далее</button>
           </div>
         </div>
       </section>
@@ -77,27 +77,27 @@ const Main = () => {
         </div>
         <div className="subscribe__container">
           <div className="subscribe__title">
-            <h2>SUBSCRIBE TO OUR NEWS LETTER</h2>
+            <h2>ПОДПИСЫВАЙТЕСЬ НА НАШУ НОВОСТНУЮ РАССЫЛКУ</h2>
           </div>
           <div className="subscribe__form">
             <form name="subscribe" action="#" method="post">
               <input
-                placeholder="Your Name"
+                placeholder="Ваше Имя"
                 tabIndex="1"
                 name="name"
                 type="text"
                 required="required"
               />
               <input
-                placeholder="Mail"
+                placeholder="Ваша почта"
                 tabIndex="2"
                 name="mail"
                 type="email"
                 required="required"
               />
-              <textarea placeholder="Messages" tabIndex="3" name="message"></textarea>
+              <textarea placeholder="Текст сообщения" tabIndex="3" name="message"></textarea>
               <button className="btn" tabIndex="4" type="submit">
-                Send Message
+              Отправить сообщение
               </button>
             </form>
           </div>
