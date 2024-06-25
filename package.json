@@ -1,0 +1,30 @@
+{
+  "name": "magazine",
+  "version": "0.1.0",
+  "homepage": "https://sergeiburyi.github.io/flowers_shop",
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-scripts": "5.0.1",
+    "resolve-url-loader": "^5.0.0",
+    "sass": "^1.77.6",
+    "styled-components": "^6.1.11"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "predeploy": "react-scripts build",
+    "deploy": "gh-pages -d build"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
