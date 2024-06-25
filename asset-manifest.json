@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.2415ca37.css",
-    "main.js": "/static/js/main.c5aac849.js",
-    "static/media/bg-leaves1.png": "/static/media/bg-leaves1.de08480d38d8e2faf331.png",
-    "static/media/bg-leaves2.png": "/static/media/bg-leaves2.df2cca42558a0dfd1570.png",
-    "static/media/Leaf-double.png": "/static/media/Leaf-double.4fa44faecc9d1f02b373.png",
-    "index.html": "/index.html",
-    "main.2415ca37.css.map": "/static/css/main.2415ca37.css.map",
-    "main.c5aac849.js.map": "/static/js/main.c5aac849.js.map"
+    "main.css": "/flowers_shop/static/css/main.68b3a5c2.css",
+    "main.js": "/flowers_shop/static/js/main.abd9ef0d.js",
+    "static/media/bg-leaves1.png": "/flowers_shop/static/media/bg-leaves1.de08480d38d8e2faf331.png",
+    "static/media/bg-leaves2.png": "/flowers_shop/static/media/bg-leaves2.df2cca42558a0dfd1570.png",
+    "static/media/Leaf-double.png": "/flowers_shop/static/media/Leaf-double.4fa44faecc9d1f02b373.png",
+    "index.html": "/flowers_shop/index.html",
+    "main.68b3a5c2.css.map": "/flowers_shop/static/css/main.68b3a5c2.css.map",
+    "main.abd9ef0d.js.map": "/flowers_shop/static/js/main.abd9ef0d.js.map"
   },
   "entrypoints": [
-    "static/css/main.2415ca37.css",
-    "static/js/main.c5aac849.js"
+    "static/css/main.68b3a5c2.css",
+    "static/js/main.abd9ef0d.js"
   ]
 }
